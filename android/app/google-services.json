@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557658843205",
+    "project_id": "caloriemeterai",
+    "storage_bucket": "caloriemeterai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557658843205:android:7404783fb52488e5c01b2c",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdfGX-Rhbw1yr2TZG43_aYntUsNuUOFQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

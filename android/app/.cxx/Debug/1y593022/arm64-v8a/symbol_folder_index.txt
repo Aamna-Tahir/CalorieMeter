@@ -1,0 +1,1 @@
+C:\calorieMeter\build\app\intermediates\cxx\Debug\1y593022\obj\arm64-v8a
