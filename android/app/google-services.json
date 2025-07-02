@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557658843205",
+    "firebase_url": "https://caloriemeterai-default-rtdb.firebaseio.com",
+    "project_id": "caloriemeterai",
+    "storage_bucket": "caloriemeterai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557658843205:android:7404783fb52488e5c01b2c",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557658843205-2n20g835vsibka1po1kh9cal2sjnmkmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "d5bf5c2071995400bfcc6227f05ce93a17b5d0ca"
+          }
+        },
+        {
+          "client_id": "557658843205-eqp0je6igkrvg62hsl3i9mplt04ogpou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdfGX-Rhbw1yr2TZG43_aYntUsNuUOFQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557658843205-eqp0je6igkrvg62hsl3i9mplt04ogpou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557658843205-vo1is216sj4q7pts05r08sh80au2i7lv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

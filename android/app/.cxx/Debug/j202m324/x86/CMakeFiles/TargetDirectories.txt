@@ -1,0 +1,2 @@
+C:/Users/PMLS/Documents/calorieMeter/android/app/.cxx/Debug/j202m324/x86/CMakeFiles/edit_cache.dir
+C:/Users/PMLS/Documents/calorieMeter/android/app/.cxx/Debug/j202m324/x86/CMakeFiles/rebuild_cache.dir
